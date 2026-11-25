@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [展開図・図形](figures.md) · 次へ: [新型（計数・言語）の概要](new-type.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [展開図・図形](figures.md) · 次へ: [新型（計数・言語）の概要](new-type.md)
+<!-- /nav:top -->
 
 # 言語（従来型）
 
@@ -156,4 +158,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [展開図・図形](figures.md) | 次へ: [新型（計数・言語）の概要](new-type.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [展開図・図形](figures.md) | 次へ: [新型（計数・言語）の概要](new-type.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

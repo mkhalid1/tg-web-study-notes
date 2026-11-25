@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [5分診断](../diagnostic.md) · 次へ: [推論](logic-puzzles.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [5分診断](../diagnostic.md) · 次へ: [推論](logic-puzzles.md)
+<!-- /nav:top -->
 
 # 暗号
 
@@ -90,4 +92,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [5分診断](../diagnostic.md) | 次へ: [推論](logic-puzzles.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [5分診断](../diagnostic.md) | 次へ: [推論](logic-puzzles.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

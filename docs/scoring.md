@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [性格・適性検査](personality.md) · 次へ: [時間配分](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [性格・適性検査](personality.md) · 次へ: [時間配分](timing.md)
+<!-- /nav:top -->
 
 # 結果と評価のしくみ
 
@@ -50,4 +52,6 @@ IRTは、問題ごとの難しさや性質をあらかじめ数値で把握し�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [性格・適性検査](personality.md) | 次へ: [時間配分](timing.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [性格・適性検査](personality.md) | 次へ: [時間配分](timing.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

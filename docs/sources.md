@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [用語集](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [用語集](glossary.md)
+<!-- /nav:top -->
 
 # 出典一覧
 
@@ -36,4 +38,6 @@ TG-WEBについての事実は、ヒューマネージの公式ページで確�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [用語集](glossary.md) | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [用語集](glossary.md) | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

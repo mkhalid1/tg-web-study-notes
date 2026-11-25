@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [推論](logic-puzzles.md) · 次へ: [展開図・図形](figures.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [推論](logic-puzzles.md) · 次へ: [展開図・図形](figures.md)
+<!-- /nav:top -->
 
 # 数列
 
@@ -88,4 +90,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [推論](logic-puzzles.md) | 次へ: [展開図・図形](figures.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [推論](logic-puzzles.md) | 次へ: [展開図・図形](figures.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

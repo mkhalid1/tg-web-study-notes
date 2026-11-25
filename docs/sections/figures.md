@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [数列](number-series.md) · 次へ: [言語（従来型）](verbal.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [数列](number-series.md) · 次へ: [言語（従来型）](verbal.md)
+<!-- /nav:top -->
 
 # 展開図・図形
 
@@ -102,4 +104,6 @@
 
 ---
 
-<!-- nav:bottom -->← 前へ: [数列](number-series.md) | 次へ: [言語（従来型）](verbal.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [数列](number-series.md) | 次へ: [言語（従来型）](verbal.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

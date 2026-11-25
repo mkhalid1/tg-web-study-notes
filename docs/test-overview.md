@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 次へ: [従来型と新型の見分け方](how-to-tell-types.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 次へ: [従来型と新型の見分け方](how-to-tell-types.md)
+<!-- /nav:top -->
 
 # TG-WEBとはどんな検査か
 
@@ -80,4 +82,6 @@ i9とi9neoはどちらも基準レベルが「4年制大学卒業レベル」で
 
 ---
 
-<!-- nav:bottom -->次へ: [従来型と新型の見分け方](how-to-tell-types.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+次へ: [従来型と新型の見分け方](how-to-tell-types.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

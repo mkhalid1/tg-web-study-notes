@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [言語（従来型）](verbal.md) · 次へ: [性格・適性検査](../personality.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [言語（従来型）](verbal.md) · 次へ: [性格・適性検査](../personality.md)
+<!-- /nav:top -->
 
 # 新型（計数・言語）の概要
 
@@ -72,4 +74,6 @@ PrepClubsの無料TG-WEB形式模擬テスト（21問・30分）は従来型と�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [言語（従来型）](verbal.md) | 次へ: [性格・適性検査](../personality.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [言語（従来型）](verbal.md) | 次へ: [性格・適性検査](../personality.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

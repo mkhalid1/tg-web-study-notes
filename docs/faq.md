@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [受検当日のチェックリスト](test-day-checklist.md) · 次へ: [用語集](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [受検当日のチェックリスト](test-day-checklist.md) · 次へ: [用語集](glossary.md)
+<!-- /nav:top -->
 
 # よくある質問
 
@@ -57,4 +59,6 @@ TG-WEBの従来型は、就活サイトでは「難しい」と言われるこ�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [受検当日のチェックリスト](test-day-checklist.md) | 次へ: [用語集](glossary.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [受検当日のチェックリスト](test-day-checklist.md) | 次へ: [用語集](glossary.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

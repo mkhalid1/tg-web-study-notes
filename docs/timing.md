@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [結果と評価のしくみ](scoring.md) · 次へ: [7日間プランと2日間プラン](study-plans.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [結果と評価のしくみ](scoring.md) · 次へ: [7日間プランと2日間プラン](study-plans.md)
+<!-- /nav:top -->
 
 # 時間配分
 
@@ -67,4 +69,6 @@ TG-WEBの従来型で点を落とす一番の原因は、難しい1問に時間�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [結果と評価のしくみ](scoring.md) | 次へ: [7日間プランと2日間プラン](study-plans.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [結果と評価のしくみ](scoring.md) | 次へ: [7日間プランと2日間プラン](study-plans.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

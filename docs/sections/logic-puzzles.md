@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../../README.md#目次) · 前へ: [暗号](code-puzzles.md) · 次へ: [数列](number-series.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../../README.md#目次) · 前へ: [暗号](code-puzzles.md) · 次へ: [数列](number-series.md)
+<!-- /nav:top -->
 
 # 推論
 
@@ -108,4 +110,6 @@ Sの家は何色ですか。
 
 ---
 
-<!-- nav:bottom -->← 前へ: [暗号](code-puzzles.md) | 次へ: [数列](number-series.md) → | [目次に戻る](../../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [暗号](code-puzzles.md) | 次へ: [数列](number-series.md) → | [目次に戻る](../../README.md#目次)
+<!-- /nav:bottom -->

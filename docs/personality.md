@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [新型（計数・言語）の概要](sections/new-type.md) · 次へ: [結果と評価のしくみ](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [新型（計数・言語）の概要](sections/new-type.md) · 次へ: [結果と評価のしくみ](scoring.md)
+<!-- /nav:top -->
 
 # 性格・適性検査
 
@@ -61,4 +63,6 @@ TG-WEBでは、言語・計数（公式では数理）の能力検査に加え�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [新型（計数・言語）の概要](sections/new-type.md) | 次へ: [結果と評価のしくみ](scoring.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [新型（計数・言語）の概要](sections/new-type.md) | 次へ: [結果と評価のしくみ](scoring.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

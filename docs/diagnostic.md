@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [従来型と新型の見分け方](how-to-tell-types.md) · 次へ: [暗号](sections/code-puzzles.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [従来型と新型の見分け方](how-to-tell-types.md) · 次へ: [暗号](sections/code-puzzles.md)
+<!-- /nav:top -->
 
 # 5分診断
 
@@ -74,4 +76,6 @@ A、B、C、D、Eの5人の身長について、次のことが分かってい�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [従来型と新型の見分け方](how-to-tell-types.md) | 次へ: [暗号](sections/code-puzzles.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [従来型と新型の見分け方](how-to-tell-types.md) | 次へ: [暗号](sections/code-puzzles.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->

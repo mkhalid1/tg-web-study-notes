@@ -1,4 +1,6 @@
-<!-- nav:top -->[目次](../README.md#目次) · 前へ: [TG-WEBとは](test-overview.md) · 次へ: [5分診断](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[目次](../README.md#目次) · 前へ: [TG-WEBとは](test-overview.md) · 次へ: [5分診断](diagnostic.md)
+<!-- /nav:top -->
 
 # 従来型と新型の見分け方
 
@@ -61,4 +63,6 @@ TG-WEBには、自宅で受けるWEB方式のほかに、テストセンター�
 
 ---
 
-<!-- nav:bottom -->← 前へ: [TG-WEBとは](test-overview.md) | 次へ: [5分診断](diagnostic.md) → | [目次に戻る](../README.md#目次)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← 前へ: [TG-WEBとは](test-overview.md) | 次へ: [5分診断](diagnostic.md) → | [目次に戻る](../README.md#目次)
+<!-- /nav:bottom -->
