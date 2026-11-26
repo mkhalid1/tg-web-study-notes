@@ -15,7 +15,7 @@
 | 3日目 | [推論](sections/logic-puzzles.md)：手順を読み、3問を解く。条件を記号で書き出す練習をする | 60分 |
 | 4日目 | [数列](sections/number-series.md)と[展開図・図形](sections/figures.md)：各3問を解く。十字形の展開図で向かい合う面の3組を言えるようにする | 75分 |
 | 5日目 | [言語（従来型）](sections/verbal.md)：5問を解く。間違えた問題は、本文の根拠の行を探し直す | 60分 |
-| 6日目 | [PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）を時間を計って解く。間違えたタイプのページを読み直す | 90分 |
+| 6日目 | [PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）を時間を計って解く。間違えたタイプのページを読み直す | 90分 |
 | 7日目 | ミスノートを見直し、[時間配分](timing.md)と[受検当日のチェックリスト](test-day-checklist.md)を確認する。性格検査がある場合は[性格・適性検査](personality.md)の準備をする | 45分 |
 
 新型が出そうな場合は、2日目から5日目に15分ずつ、[新型の概要](sections/new-type.md)にある計算と語彙の練習を足してください。
@@ -27,7 +27,7 @@
 | 日 | やること | 目安 |
 |---|---|---|
 | 1日目 | [5分診断](diagnostic.md)を解く。[暗号](sections/code-puzzles.md)、[推論](sections/logic-puzzles.md)、[展開図・図形](sections/figures.md)の「解き方の手順」だけを読み、各ページの練習問題を解く | 90分 |
-| 2日目 | [PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)を時間を計って解く。間違えたタイプの「よくある落とし穴」だけを読み直す。[受検当日のチェックリスト](test-day-checklist.md)を確認する | 90分 |
+| 2日目 | [PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)を時間を計って解く。間違えたタイプの「よくある落とし穴」だけを読み直す。[受検当日のチェックリスト](test-day-checklist.md)を確認する | 90分 |
 
 数列と言語は、2日目の模擬テストで間違えた場合だけページを開けば十分です。
 

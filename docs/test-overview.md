@@ -68,7 +68,7 @@ i9とi9neoはどちらも基準レベルが「4年制大学卒業レベル」で
 
 ## 時間を計って試す
 
-従来型の問題は、形式を知っているかどうかで解ける速さが大きく変わります。まず[5分診断](diagnostic.md)で苦手を見つけ、本番に近い感覚を確かめたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）を使ってみてください。
+従来型の問題は、形式を知っているかどうかで解ける速さが大きく変わります。まず[5分診断](diagnostic.md)で苦手を見つけ、本番に近い感覚を確かめたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）を使ってみてください。
 
 ## 出典
 

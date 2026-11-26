@@ -56,7 +56,7 @@ TG-WEBの従来型で点を落とす一番の原因は、難しい1問に時間�
 
 ## 時間を計って練習する
 
-ペース配分は、頭で分かっていても本番では崩れます。従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）で、実際に時計を見ながら解いてみてください。
+ペース配分は、頭で分かっていても本番では崩れます。従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）で、実際に時計を見ながら解いてみてください。
 
 ## 出典
 

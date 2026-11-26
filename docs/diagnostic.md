@@ -72,7 +72,7 @@ A、B、C、D、Eの5人の身長について、次のことが分かってい�
 
 4問とも5分以内に解けた人も、数列は診断に入っていないので[数列](sections/number-series.md)の3問は解いておいてください。そのうえで、[7日間プラン](study-plans.md#7日間プラン)か、時間がなければ[2日間プラン](study-plans.md#2日間プラン)に進みましょう。
 
-本番に近い分量で試したいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）が使えます。
+本番に近い分量で試したいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）が使えます。
 
 ---
 

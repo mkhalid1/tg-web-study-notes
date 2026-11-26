@@ -48,7 +48,7 @@ TG-WEBの従来型は、就活サイトでは「難しい」と言われるこ�
 
 ## 無料で練習できるところはありますか？
 
-このガイドには、5分診断と各ページの練習問題を合わせて21問のオリジナル問題があります。時間を計って通しで解きたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）が使えます。どちらもTG-WEBの実際の問題ではありません。
+このガイドには、5分診断と各ページの練習問題を合わせて21問のオリジナル問題があります。時間を計って通しで解きたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）が使えます。どちらもTG-WEBの実際の問題ではありません。
 
 ## 出典
 

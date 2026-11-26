@@ -63,7 +63,7 @@
 
 ## 次のステップ
 
-PrepClubsの無料TG-WEB形式模擬テスト（21問・30分）は従来型と同じ形式なので、新型の練習にはなりません。新型が出そうな場合も、従来型の型を先に押さえておくと安心です。従来型の練習には[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)を使い、新型は上の練習のしかたで計算と語彙の速さを鍛えてください。
+PrepClubsの無料TG-WEB形式模擬テスト（21問・30分）は従来型と同じ形式なので、新型の練習にはなりません。新型が出そうな場合も、従来型の型を先に押さえておくと安心です。従来型の練習には[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)を使い、新型は上の練習のしかたで計算と語彙の速さを鍛えてください。
 
 ## 出典
 

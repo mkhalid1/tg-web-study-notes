@@ -2,7 +2,7 @@
 
 ヒューマネージの適性検査TG-WEBのための、無料の学習ガイドです。従来型と新型の見分け方、従来型で出る暗号・推論・数列・展開図・言語の解き方、性格・適性検査への向き合い方、結果の扱われ方、7日間と2日間の学習プランまでをまとめました。オリジナルの練習問題21問（各ページの17問と5分診断の4問）には、すべて解説がついています。TG-WEBについての事実はヒューマネージの公式ページだけを根拠にし、就活サイトの数字は「非公式の目安」と明記して[出典](docs/sources.md)を示しています。
 
-まず力試しをしたい人は、TG-WEB従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）か、このリポジトリの短い[5分診断](docs/diagnostic.md)から始めてください。
+まず力試しをしたい人は、TG-WEB従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）か、このリポジトリの短い[5分診断](docs/diagnostic.md)から始めてください。
 
 ## まずはここから
 
@@ -185,7 +185,7 @@
 - **答えを見る前に、自分の答えを決める。** 解答は「解答と解説」を開くと表示されます。先に答えを決めてから開いてください。
 - **正解した問題の解説も読む。** 解説の多くは、近い選択肢がなぜ違うかを説明しています。そこが本番で迷うところです。
 - **ミスノートをつける。** 間違えた問題ごとに、原因と次からの一手を書きます。書き方は[学習プラン](docs/study-plans.md#ミスノートのつけ方)にあります。
-- **時間を計って解く。** このガイドは解き方を教えます。ペースは、[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)のような時間を計った練習で身につけます。
+- **時間を計って解く。** このガイドは解き方を教えます。ペースは、[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)のような時間を計った練習で身につけます。
 - **クローンもフォークも自由にどうぞ。** 自分用にメモを書き込んでも構いません。GitBookでも読める構成です（[SUMMARY.md](SUMMARY.md)）。
 
 ## 練習問題について

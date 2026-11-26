@@ -72,7 +72,7 @@
 
 </details>
 
-もっと解きたい人へ：PrepClubsの無料TG-WEB形式模擬テストは全21問（言語12問・計数9問）、30分で、従来型と同じ形式を時間を計って解けます。[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)
+もっと解きたい人へ：PrepClubsの無料TG-WEB形式模擬テストは全21問（言語12問・計数9問）、30分で、従来型と同じ形式を時間を計って解けます。[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)
 
 ## 自己採点
 
@@ -86,7 +86,7 @@
 
 ## 次のステップ
 
-数列は短時間で取れる問題なので、ここで時間を節約できるかどうかが全体の出来を左右します。[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)で、ほかのタイプと混ざったときのペースを確かめてください。
+数列は短時間で取れる問題なので、ここで時間を節約できるかどうかが全体の出来を左右します。[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)で、ほかのタイプと混ざったときのペースを確かめてください。
 
 ---
 

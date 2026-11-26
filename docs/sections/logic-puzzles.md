@@ -92,7 +92,7 @@ Sの家は何色ですか。
 
 </details>
 
-もっと解きたい人へ：PrepClubsの無料TG-WEB形式模擬テストは全21問（言語12問・計数9問）、30分で、従来型と同じ形式を時間を計って解けます。[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)
+もっと解きたい人へ：PrepClubsの無料TG-WEB形式模擬テストは全21問（言語12問・計数9問）、30分で、従来型と同じ形式を時間を計って解けます。[TG-WEB形式の無料模擬テスト（PrepClubs）](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)
 
 ## 自己採点
 
@@ -106,7 +106,7 @@ Sの家は何色ですか。
 
 ## 次のステップ
 
-推論は、時間に追われると条件を1つ読み飛ばしやすくなります。[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)で、時間を計った状態でも同じ手順を守れるか試してみてください。
+推論は、時間に追われると条件を1つ読み飛ばしやすくなります。[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)で、時間を計った状態でも同じ手順を守れるか試してみてください。
 
 ---
 

@@ -53,7 +53,7 @@ TG-WEBには、公式に次の受検方式があります。どの方式かで�
 
 ## 最後の練習
 
-受検前にもう一度だけ時間を計って解いておきたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=tg-web)（21問・30分）が使えます。
+受検前にもう一度だけ時間を計って解いておきたいときは、従来型と同じ形式の[PrepClubsの無料TG-WEB形式模擬テスト](https://prepclubs.com/ja/tg-web-taisaku?utm_source=github&utm_medium=referral&utm_campaign=7n35ny&utm_content=tg-web)（21問・30分）が使えます。
 
 出典：[オンラインAI監視型WEBテスト TG-WEB eye（公式）](https://www.humanage.co.jp/service/assessment/tg-web/eye/index.html)（2026年11月25日確認）
 
